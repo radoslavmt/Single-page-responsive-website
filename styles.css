@@ -134,6 +134,11 @@ p {
     text-decoration: none;
 }
 
+.box a {
+    color: white;
+    /* text-decoration: none; */
+}
+
 @media(min-width: 700px) {
     .grid {
         display: grid;
